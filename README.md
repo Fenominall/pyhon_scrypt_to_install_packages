@@ -1,0 +1,2 @@
+# pyhon_scrypt_to_install_packages
+automation_pyhon_scrypt_to_install_packages_for_vertial_environment
